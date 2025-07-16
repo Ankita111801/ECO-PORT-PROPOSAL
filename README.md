@@ -69,7 +69,7 @@ This project was submitted as part of the national-level **CreaTech Innovation C
 
 - **Team Name**: MANITPOP
 - **Institute**: Maulana Azad National Institute of Technology (MANIT), Bhopal 
-- **Email**: ankitarai7373@gmail.com
+- **Email**: ankitarai737@gmail.com
 
 ---
 
@@ -84,7 +84,7 @@ This project was submitted as part of the national-level **CreaTech Innovation C
 ## 📬 Contact
 
 For further queries or collaboration:  
-📧 ankitarai7373@gmail.com
+📧 ankitarai737@gmail.com
 📍 MANIT Bhopal, India
 
 ---
