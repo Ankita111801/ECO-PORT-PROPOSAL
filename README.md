@@ -68,15 +68,14 @@ This project was submitted as part of the national-level **CreaTech Innovation C
 ## 👥 Team Details
 
 - **Team Name**: MANITPOP
-- **Institute**: Maulana Azad National Institute of Technology (MANIT), Bhopal
-- **Team Leader**: Ankita Rai  
-- **Email**: ankita.rai@example.com
+- **Institute**: Maulana Azad National Institute of Technology (MANIT), Bhopal 
+- **Email**: ankitarai7373@gmail.com
 
 ---
 
 ## 📁 Submission Contents
 
-- `CreaTech Submission_MANITPOP.pptx` – Final proposal slides
+- `CREATECH_MANITPOP` – Final proposal slides
 - `README.md` – Project overview
 - Supporting calculations and embedded references in slides
 
@@ -85,7 +84,7 @@ This project was submitted as part of the national-level **CreaTech Innovation C
 ## 📬 Contact
 
 For further queries or collaboration:  
-📧 ankita.rai@example.com  
+📧 ankitarai7373@gmail.com
 📍 MANIT Bhopal, India
 
 ---
